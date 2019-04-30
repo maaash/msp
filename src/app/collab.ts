@@ -1,4 +1,5 @@
 export class Collab {
   matricule: string;
-  name: string;
+  nom: string;
+  sexe: string;
 }
